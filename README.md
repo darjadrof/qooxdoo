@@ -1,2 +1,2 @@
 # qooxdoo
-My simple Qooxdoo examples.
+Examples comming soon...
